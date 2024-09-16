@@ -1201,10 +1201,7 @@ ul {
     --font-52px: 42px;
   }
 
-  .banner-form {
-    background-color: #ffffff3b;
-    backdrop-filter: blur(2px);
-  }
+ 
   .purchase-input input {
     background: #ffffff1c;
   }
